@@ -18,7 +18,7 @@ module.exports = {
 
 
   // 所有名称以 `env.` 开头的配置将解析成环境变量
-  // 'env.PORT': '9527',
-  // 'env.BIND_IP': '0.0.0.0',
+   'env.PORT': '9527',
+   'env.BIND_IP': '0.0.0.0',
   // ...其他环境变量看 Readme.md 内附录的「可用的环境变量」部分
 }
